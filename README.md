@@ -25,9 +25,9 @@ https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 http://cs231n.stanford.edu/
 
 
-## R:
-
-http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+## R
+### Top 50 ggplot2 Visualizations - The Master List (With Full R Code)
+- http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 
 ## Books:
