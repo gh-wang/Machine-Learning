@@ -3,9 +3,12 @@ Machine learning resources
 
 
 ## Python:
-
+- From Python to numpoy
 http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+
 https://zenodo.org/record/218740#.WHkqrWfHx9A
+
+- Scipy Lecture NotesOne document to learn numerics, science, and data with Python
 
 http://www.scipy-lectures.org/index.html
 
@@ -17,9 +20,9 @@ https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
 ## Deep Learning:
 
-Cs231n
+- Stanford CS231n: Convolutional Neural Networks for Visual Recognition
 
-Cs294
+http://cs231n.stanford.edu/
 
 
 ## R:
