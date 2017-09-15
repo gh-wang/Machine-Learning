@@ -9,9 +9,9 @@
 - pip3 install --upgrade pip
 
 ## Download key libraries
-- [UCI](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
-- Numpy+mkl (www.numpy.org)
-- Scipy (www.scipy.org)
+- [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+- [Numpy+mkl](www.numpy.org)
+- [Scipy](www.scipy.org)
 
 ## Install Jupyter Notebook
 - [Jupyter](www.jupyter.org)
@@ -23,7 +23,7 @@
 - pip3 install pandas
 - pip3 install seaborn
 ## Install image processing libraries: OpenCV, Pillow
-- pip3 install opencv-python (www.opencv.org)
+- pip3 install [opencv-python](www.opencv.org)
 - pip3 install pillow
 ## Install Machine Learning packages
 - pip3 install scikit-learn (from UCI)
