@@ -4,7 +4,7 @@ Machine learning resources
 
 ## Python
 ### Numpy
-#### From Python to numpoy
+#### From Python to numpy
 - http://www.labri.fr/perso/nrougier/from-python-to-numpy/
 - https://zenodo.org/record/218740#.WHkqrWfHx9A
 
